@@ -1,0 +1,8 @@
+D:\c#\kenenth\kenenth\bin\Debug\kenenth.exe.config
+D:\c#\kenenth\kenenth\bin\Debug\kenenth.exe
+D:\c#\kenenth\kenenth\bin\Debug\kenenth.pdb
+D:\c#\kenenth\kenenth\obj\Debug\kenenth.csproj.AssemblyReference.cache
+D:\c#\kenenth\kenenth\obj\Debug\kenenth.csproj.SuggestedBindingRedirects.cache
+D:\c#\kenenth\kenenth\obj\Debug\kenenth.csproj.CoreCompileInputs.cache
+D:\c#\kenenth\kenenth\obj\Debug\kenenth.exe
+D:\c#\kenenth\kenenth\obj\Debug\kenenth.pdb

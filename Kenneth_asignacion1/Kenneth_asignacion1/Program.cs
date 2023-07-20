@@ -33,22 +33,22 @@ namespace Kenneth_asignacion1
 
         static void CalificacionEstudiante(string[] estudiantes, double[] calificacion)
         {
-            for (int i = 0; i < estudiantes.Length; i++) 
+            for (int i = 1; i <= estudiantes.Length; i++) 
             {
-                Console.WriteLine(i + " ." + estudiantes[i - 1]);
+                Console.WriteLine(i + " . " + estudiantes[i - 1]);
 
             }
             int pos;
             Console.Write("Seleccione un estudiante : ");
             pos = int.Parse(Console.ReadLine());
             Console.WriteLine("");
-            Console.WriteLine(" la calififcacion del estudiante seleccionado es : ", calificacion[pos - 1]);
+            Console.WriteLine(" la calififcacion del estudiante seleccionado es : "+ calificacion[pos - 1]);
             
             
 
         }
         
-        static void Main(string[] args)
+        public static void Main(string[] args)
         
         {
 
@@ -91,7 +91,7 @@ namespace Kenneth_asignacion1
                         Console.WriteLine("5. Mostrar estudiantes aprovados.");
                         Console.WriteLine("6. Mostrar estudiantes reprovados.");
                         Console.WriteLine("7. Modificar calificacion estudiante.");
-                        Console.WriteLine("4. Salir.");
+                        Console.WriteLine("8. Salir.");
 
 
                         string opcion = Console.ReadLine();

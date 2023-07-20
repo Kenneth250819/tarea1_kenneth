@@ -1,0 +1,8 @@
+D:\c#\prubea\Asignacion1\bin\Debug\Asignacion1.exe.config
+D:\c#\prubea\Asignacion1\bin\Debug\Asignacion1.exe
+D:\c#\prubea\Asignacion1\bin\Debug\Asignacion1.pdb
+D:\c#\prubea\Asignacion1\obj\Debug\Asignacion1.csproj.AssemblyReference.cache
+D:\c#\prubea\Asignacion1\obj\Debug\Asignacion1.csproj.SuggestedBindingRedirects.cache
+D:\c#\prubea\Asignacion1\obj\Debug\Asignacion1.csproj.CoreCompileInputs.cache
+D:\c#\prubea\Asignacion1\obj\Debug\Asignacion1.exe
+D:\c#\prubea\Asignacion1\obj\Debug\Asignacion1.pdb
