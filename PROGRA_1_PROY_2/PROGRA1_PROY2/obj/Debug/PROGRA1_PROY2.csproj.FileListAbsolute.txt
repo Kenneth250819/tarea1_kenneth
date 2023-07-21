@@ -26,3 +26,31 @@ D:\c#\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\Formularios\frmventanaprincipal.g.
 D:\c#\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\Formularios\frmventanaprincipal.baml
 D:\c#\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\Formularios\frmventana1.g.cs
 D:\c#\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\Formularios\frmventana1.baml
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\PROGRA1_PROY2.exe.config
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\PROGRA1_PROY2.exe
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\PROGRA1_PROY2.pdb
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\MaterialDesignColors.dll
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\MaterialDesignColors.pdb
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2.csproj.AssemblyReference.cache
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2.csproj.SuggestedBindingRedirects.cache
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\Formularios\frmventana1.g.cs
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\Formularios\frmventanaprincipal.g.cs
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\App.g.cs
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2_MarkupCompile.cache
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2_MarkupCompile.lref
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\App.baml
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\Formularios\frmventana1.baml
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\Formularios\frmventanaprincipal.baml
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2.g.resources
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2.Properties.Resources.resources
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2.csproj.GenerateResource.cache
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2.csproj.CoreCompileInputs.cache
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2.csproj.CopyComplete
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2.exe
+E:\Progra I\Prueba\tarea1_kenneth\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2.pdb
