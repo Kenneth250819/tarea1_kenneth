@@ -26,31 +26,3 @@ D:\c#\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\Formularios\frmventanaprincipal.g.
 D:\c#\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\Formularios\frmventanaprincipal.baml
 D:\c#\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\Formularios\frmventana1.g.cs
 D:\c#\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\Formularios\frmventana1.baml
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\PROGRA1_PROY2.exe.config
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\PROGRA1_PROY2.exe
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\PROGRA1_PROY2.pdb
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\MaterialDesignColors.dll
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\MaterialDesignThemes.Wpf.dll
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\Microsoft.Xaml.Behaviors.dll
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\MaterialDesignColors.pdb
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\MaterialDesignThemes.Wpf.pdb
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\MaterialDesignThemes.Wpf.xml
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\Microsoft.Xaml.Behaviors.pdb
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\bin\Debug\Microsoft.Xaml.Behaviors.xml
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2.csproj.AssemblyReference.cache
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2.csproj.SuggestedBindingRedirects.cache
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\Formularios\frmventana1.g.cs
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\Formularios\frmventanaprincipal.g.cs
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\App.g.cs
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2_MarkupCompile.cache
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2_MarkupCompile.lref
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\App.baml
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\Formularios\frmventana1.baml
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\Formularios\frmventanaprincipal.baml
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2.g.resources
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2.Properties.Resources.resources
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2.csproj.GenerateResource.cache
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2.csproj.CoreCompileInputs.cache
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2.csproj.CopyComplete
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2.exe
-C:\Users\HP\Documents\TRABAJOS Y MATERIALES  UMCA\CUATRI #2\PROGRA 1\proyecto2\PROGRA_1_PROY_2\PROGRA1_PROY2\obj\Debug\PROGRA1_PROY2.pdb
