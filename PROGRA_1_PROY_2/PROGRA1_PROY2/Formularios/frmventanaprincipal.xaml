@@ -7,7 +7,47 @@
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         mc:Ignorable="d"
         Title="frmventanaprincipal" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+    <Canvas>
+
+
+        <Button
+    materialDesign:ButtonProgressAssist.IsIndeterminate="True"
+    materialDesign:ButtonProgressAssist.IsIndicatorVisible="True"
+    materialDesign:ButtonProgressAssist.Value="-1"
+    Content="Registro de tareas"
+    IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+    Style="{StaticResource MaterialDesignRaisedButton}" Click="Button_Click" Canvas.Left="27" Canvas.Top="39" HorizontalAlignment="Center" VerticalAlignment="Center" Width="240" Cursor="Hand" />
+
+
+
+
+        <Button
+    materialDesign:ButtonProgressAssist.IsIndeterminate="True"
+    materialDesign:ButtonProgressAssist.IsIndicatorVisible="True"
+    materialDesign:ButtonProgressAssist.Value="-1"
+    Content="Visualizacion y registro de tareas"
+    IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+    Style="{StaticResource MaterialDesignRaisedButton}" RenderTransformOrigin="0.486,0.563" Grid.RowSpan="2" Canvas.Left="27" Canvas.Top="130" />
+
+
+        <Button
+    materialDesign:ButtonProgressAssist.IsIndeterminate="True"
+    materialDesign:ButtonProgressAssist.IsIndicatorVisible="True"
+    materialDesign:ButtonProgressAssist.Value="-1"
+    Content="Eliminacion de tareas"
+    IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+    Style="{StaticResource MaterialDesignRaisedButton}" Canvas.Left="27" Canvas.Top="217" HorizontalAlignment="Center" VerticalAlignment="Center" Width="240" />
+
+
+
+        <Button
+    materialDesign:ButtonProgressAssist.IsIndeterminate="True"
+    materialDesign:ButtonProgressAssist.IsIndicatorVisible="True"
+    materialDesign:ButtonProgressAssist.Value="-1"
+    Content="Generacion de informes"
+    IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+    Style="{StaticResource MaterialDesignRaisedButton}" Canvas.Left="27" Canvas.Top="288" />
+
+
+    </Canvas>
 </Window>

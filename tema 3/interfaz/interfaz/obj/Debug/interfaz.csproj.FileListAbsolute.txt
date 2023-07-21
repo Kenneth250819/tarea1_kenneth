@@ -1,8 +1,0 @@
-D:\c#\tema 3\interfaz\interfaz\bin\Debug\interfaz.exe.config
-D:\c#\tema 3\interfaz\interfaz\bin\Debug\interfaz.exe
-D:\c#\tema 3\interfaz\interfaz\bin\Debug\interfaz.pdb
-D:\c#\tema 3\interfaz\interfaz\obj\Debug\interfaz.csproj.AssemblyReference.cache
-D:\c#\tema 3\interfaz\interfaz\obj\Debug\interfaz.csproj.SuggestedBindingRedirects.cache
-D:\c#\tema 3\interfaz\interfaz\obj\Debug\interfaz.csproj.CoreCompileInputs.cache
-D:\c#\tema 3\interfaz\interfaz\obj\Debug\interfaz.exe
-D:\c#\tema 3\interfaz\interfaz\obj\Debug\interfaz.pdb

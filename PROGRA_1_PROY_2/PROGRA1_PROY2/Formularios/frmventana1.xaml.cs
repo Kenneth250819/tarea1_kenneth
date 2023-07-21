@@ -15,28 +15,13 @@ using System.Windows.Shapes;
 namespace PROGRA1_PROY2.Formularios
 {
     /// <summary>
-    /// Lógica de interacción para frmventanaprincipal.xaml
+    /// Lógica de interacción para frmventana1.xaml
     /// </summary>
-    public partial class frmventanaprincipal : Window
+    public partial class frmventana1 : Window
     {
-        public frmventanaprincipal()
+        public frmventana1()
         {
             InitializeComponent();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            frmventanaprincipal ventanaprincipal = new frmventanaprincipal();
-            ventanaprincipal.Close();
-
-            frmventana1 ventana1 = new frmventana1();
-            ventana1.Show();
-            
-
-
-
-
-
         }
     }
 }

@@ -73,6 +73,9 @@
     <Compile Include="Clases\Registro_Notas.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Formularios\frmventana1.xaml.cs">
+      <DependentUpon>frmventana1.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Formularios\frmventanaprincipal.xaml.cs">
       <DependentUpon>frmventanaprincipal.xaml</DependentUpon>
     </Compile>
@@ -106,6 +109,10 @@
     <Folder Include="Codigo\" />
   </ItemGroup>
   <ItemGroup>
+    <Page Include="Formularios\frmventana1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Formularios\frmventanaprincipal.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

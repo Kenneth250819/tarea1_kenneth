@@ -1,8 +1,0 @@
-D:\c#\Kacuña_asignacion2\Kacuña_asignacion2\Kacuña_asignacion2\obj\Debug\Kacuña_asignacion2.csproj.AssemblyReference.cache
-D:\c#\Kacuña_asignacion2\Kacuña_asignacion2\Kacuña_asignacion2\obj\Debug\Kacuña_asignacion2.csproj.SuggestedBindingRedirects.cache
-D:\c#\Kacuña_asignacion2\Kacuña_asignacion2\Kacuña_asignacion2\obj\Debug\Kacuña_asignacion2.csproj.CoreCompileInputs.cache
-D:\c#\Kacuña_asignacion2\Kacuña_asignacion2\Kacuña_asignacion2\bin\Debug\Kacuña_asignacion2.exe.config
-D:\c#\Kacuña_asignacion2\Kacuña_asignacion2\Kacuña_asignacion2\bin\Debug\Kacuña_asignacion2.exe
-D:\c#\Kacuña_asignacion2\Kacuña_asignacion2\Kacuña_asignacion2\bin\Debug\Kacuña_asignacion2.pdb
-D:\c#\Kacuña_asignacion2\Kacuña_asignacion2\Kacuña_asignacion2\obj\Debug\Kacuña_asignacion2.exe
-D:\c#\Kacuña_asignacion2\Kacuña_asignacion2\Kacuña_asignacion2\obj\Debug\Kacuña_asignacion2.pdb
