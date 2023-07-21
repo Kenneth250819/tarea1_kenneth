@@ -9,7 +9,7 @@
     <Canvas>
         <Button
   
-  Content="Titulo de la tarea "
+  Content="Titulo de la tarea 1"
   IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
   Style="{StaticResource MaterialDesignPaperDarkButton}"
   ToolTip="Resource name: MaterialDesignPaperDarkButton" HorizontalAlignment="Left" VerticalAlignment="Top" Width="287" Canvas.Left="10" Canvas.Top="21" Background="#FF975BCC" Foreground="#E5020000" />
